@@ -1,0 +1,10 @@
+/* src/app/logowanie/logowanie.component.css */
+.container {
+    width: 300px;
+    margin: auto;
+    padding-top: 50px;
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
